@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(144, 196, 214);
+}
+input{
+    border: 3px ;
+}
+button{
+    color:black;
+    background-color: cornflowerblue;
+}

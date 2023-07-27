@@ -1,5 +1,8 @@
-const loginPage = (req,res,next)=>{
-    res.render('login')
+exports.loginPage = (req,res,next)=>{
+    res.render('loginPage')
 }
 
-module.exports=loginPage;
+exports.dashBoard = (req,res,next)=>{
+    res.render('dashboard')
+}
+
